@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "17119487502",
+    "project_id": "isequals2-43275",
+    "storage_bucket": "isequals2-43275.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:17119487502:android:7e52997a4ef7da81d1fe5f",
+        "android_client_info": {
+          "package_name": "com.example.isequal2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "17119487502-k1p2bp87deuamhvo1cahd2261mhugia6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjUAcBjIQcA8t4OeQcpKQXqOvzB7yv22k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "17119487502-k1p2bp87deuamhvo1cahd2261mhugia6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
